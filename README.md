@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+## React FrontEnd 
+## Built With
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- React Js 
+- Redux 
+- React Router 
+- GitFlow
+
+
+## Development set up
+
+Clone Repository using
+
+`git clone git@github.com:Gedewon/hello-react-front-end.git`
+
+OR using HTTPS
+
+`git clone https://github.com/Gedewon/hello-react-front-end.git`
+
+move into project directory
+
+`cd hello-react-front-end`
+
+Install Project dependencies using `NPM`
+
+`npm install`
+
+launch project locally with
+
+`npm start`
 
 ## Available Scripts
 
@@ -39,32 +66,24 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Author
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+👤 **Gedewon**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- GitHub: [@githubhandle](https://github.com/gedewon)
+- Twitter: [@twitterhandle](https://twitter.com/gedewon)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/gedewon)
 
-### Code Splitting
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contributions, issues, and feature requests are welcome!
 
-### Analyzing the Bundle Size
+Feel free to check the [issues page](https://github.com/Gedewon/hello-react-front-end/issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Show your support
 
-### Making a Progressive Web App
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📝 License
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./MIT.md) licensed.
